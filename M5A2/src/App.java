@@ -1,5 +1,5 @@
 /* Bailey Garrett
- * module 5 assignment 1 
+ * module 5 assignment 2 
  * 2/17/24 
  * Circle color change on mouse pressed and released 
  */
